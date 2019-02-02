@@ -1,6 +1,6 @@
 <template>
   <div class="top">
-    <img src="../../img/top.png" width="30%" height="30%">
+    <img src="../../img/top.png" width="20%" height="20%">
     <h1>{{ msg }}</h1>
   </div>
 </template>

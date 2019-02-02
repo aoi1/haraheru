@@ -1,7 +1,7 @@
 <template>
   <div class="news">
     <h1>News</h1>
-    2019/01/31 サイトを公開しました！
+    2019/02/02 サイトを公開しました！
   </div>
 </template>
 

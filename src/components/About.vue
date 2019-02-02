@@ -1,6 +1,9 @@
 <template>
   <div class="about">
+    <img src="../../img/icon.jpg" width="20%" height="20%">
     <h2>自己紹介</h2>
+  <h3>名前：あおい</h3>
+    <br>
     AWSを使ったクラウドサービスのインフラを担当しています<br>
     趣味で漫画も描いています<br>
     好きなエディタはvim

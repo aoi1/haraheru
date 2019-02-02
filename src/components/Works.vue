@@ -1,7 +1,8 @@
 <template>
   <div class="works">
     <h1>Works</h1>
-    BOOTHでおとうふくんグッズを売っています
+    <a href="https://blux.booth.pm" target="blank">BOOTH</a>
+    でおとうふくんグッズを売っています
   </div>
 </template>
 

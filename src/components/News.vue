@@ -1,7 +1,19 @@
 <template>
   <div class="news">
     <h1>News</h1>
-    2019/02/02 サイトを公開しました！
+    <v-layout align-center justify-center>
+      <table>
+        <tr>
+          <td>2019/04/28</td>
+          <td>Top画を平成最後仕様に更新しました！
+          Worksに同人誌情報を追加しました！</td>
+        </tr>
+        <tr>
+          <td>2019/02/02</td>
+          <td>サイトを公開しました！</td>
+        </tr>
+      </table>
+    </v-layout>
   </div>
 </template>
 

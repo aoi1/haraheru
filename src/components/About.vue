@@ -4,14 +4,17 @@
     <h2>自己紹介</h2>
   <h3>名前：あおい</h3>
     <br>
-    AWSを使ったクラウドサービスのインフラを担当しています<br>
+    Kubernetesを愛でたりしています<br>
     趣味で漫画も描いています<br>
     好きなエディタはvim
     <br>
     <br>
     <h2>主な技術スタック</h2>
-    Java, python, javascript, AWS, ansible, git, Docker, Vue.js, Linux
+    Kubernetes, Docker, Linux, Java, python 
     <br>
+    Twitter: <a href="https://twitter.com/_a0i">_a0i</a>
+    note: <a href="https://note.com/a0i">a0i</a>
+    blog: <a href="https://blux.hatenablog.com">腹は減る</a>
   </div>
 </template>
 

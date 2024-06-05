@@ -1,0 +1,91 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+header {
+  background-color: #ffffff;
+  color: black;
+  padding: 1em 0;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #f8f8f8;
+  padding: 0.5em 0;
+  border-bottom: 1px solid #ccc;
+}
+
+nav a {
+  color: #366ccc;
+  text-decoration: none;
+  padding: 0.5em 1em;
+}
+
+nav a:hover {
+  background-color: #575757;
+  color: white;
+}
+
+nav a:visited {
+  color: #6699cc;
+}
+
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* 中央揃え */
+  padding: 2em 1em; /* 上下左右にパディング */
+}
+
+section {
+  margin-bottom: 2em;
+  background: #ffffff;
+  padding: 2em;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center; /* セクションの内容を左詰に */
+}
+
+section img {
+  display: block;
+  margin: 0 auto 20px;
+}
+
+.talk-history {
+  text-align: left; /* 左詰め */
+}
+
+.talk-history a {
+  color: #366ccc;
+}
+
+.talk-history a:visited {
+  color: #6699cc; /* 淡い紫 */
+}
+
+
+.talk-history p {
+  margin-bottom: 1em;
+}
+
+/* aboutセクション内のリンクのスタイル */
+#about a {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+#about a:hover {
+  text-decoration: underline;
+}
+
+#about a:visited {
+  color: #6699cc;
+}
